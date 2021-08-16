@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: NotCraft
 description: a collections of useful tools designed by ylfeng.
+show_downloads: false
