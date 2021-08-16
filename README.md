@@ -2,7 +2,7 @@
 
 NotCraft is a collection of useful tools design by [ylfeng](https://github.com/alongwy)
 
-## [NotCraft::NotFeed](https://github.com/NotCraft/NotFeed)
+## [NotCraft::NotFeed](https://NotCraft.alongwy.top/NotFeed)
 An RSS reader running entirely from your GitHub repo.
 
 + Free hosting on GitHub Pages. No ads. No third party tracking.
